@@ -1,7 +1,7 @@
 
 package com.mycompany.chapter5;
 
-
+//Class declaration
 public class Power {
 
  
