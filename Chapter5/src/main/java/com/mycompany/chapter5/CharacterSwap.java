@@ -1,5 +1,7 @@
 package com.mycompany.chapter5;
 
+/** Class to manipulate characters in a string */
+
 public class CharacterSwap {
   
     public static void main(String[] args) {
