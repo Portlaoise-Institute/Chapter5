@@ -44,6 +44,25 @@ public class StringOps {
         return chosenChar;
     
     } //end method 
+
+    
+    
+    public static int countVowels(String txt) {
+        
+        //implement the method 
+        
+               
+        return 2;
+    
+    } //end method
+
+    static int countDigits(String txt) {
+        //implement the function
+        int numDigits=3;
+        
+        return numDigits;
+        
+    } //end method
     
     
 } //end class

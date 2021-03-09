@@ -15,7 +15,7 @@ public class Power {
         //cast the results as int varaibles 
         int square = (int) Math.pow(num, 2);
         int cube = (int) Math.pow(num, 3);
-        int sqrt = (int) Math.sqrt(num);
+        int sqrt = (int) Math.sqrt(num);  //sqaure root of 9 -> 3
         
         //Output the results of the calculations
         System.out.println(num + " squared is "+ square);
